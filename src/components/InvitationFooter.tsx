@@ -14,7 +14,7 @@ const InvitationFooter = () => {
         </span>
       </p>
       <p className="mt-2 font-body text-xs">
-        For questions, please contact us at example@email.com
+        For questions, please contact us at 9920355253
       </p>
     </footer>
   );
