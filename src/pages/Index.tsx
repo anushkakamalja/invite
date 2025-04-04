@@ -37,7 +37,6 @@ const Index = () => {
               <div className="aspect-[2/1] w-full bg-gradient-to-r from-gold/50 via-gold-light to-gold/50 rounded-lg animate-shimmer"></div>
             </div>
           </div>
-          <RSVPForm />
         </div>
         
         <InvitationFooter />
